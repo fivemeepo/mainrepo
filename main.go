@@ -9,5 +9,5 @@ import (
 
 func main() {
 	lib.Hello()
-	fmt.Println(subrepo.Hello())
+	fmt.Println(subrepo.Hello(), "v3")
 }
