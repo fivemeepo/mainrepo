@@ -1,3 +1,3 @@
-module github.com/fivemeepo/main-repo
+module github.com/fivemeepo/mainrepo
 
 go 1.23.12
