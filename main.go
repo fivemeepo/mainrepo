@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fmt"
+	"github.com/fivemeepo/main-repo/lib"
 )
 
 func main() {
-	fmt.Println(subrepo.Hello())
+	lib.Hello()
+	subrepo.Hello()
 }
